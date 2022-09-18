@@ -45,7 +45,9 @@ layout: page
 {% for post in posts %}
 
   <div class="post-preview">
+    <a href="{{ post.url | relative_url }}">
     <img src="/assets/img/testpage.png" alt="juseok" height="200" width="500">
+    </a>
     <h1>
       <br>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
