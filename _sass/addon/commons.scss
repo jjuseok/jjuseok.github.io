@@ -704,29 +704,30 @@ $sidebar-display: "sidebar-display";
       @extend %clickable-transition;
 
       font-weight: 900;
-      font-size: 1.5rem;
+      font-size: 2rem;
       letter-spacing: 0.5px;
       color: rgba(255, 255, 255, 0.99);
     }
   }
 
   .site-subtitle {
-    font-size: 95%;
+    font-size: 100%;
     color: rgba(255, 255, 255, 0.99);
     line-height: 1.5rem;
     word-spacing: 1px;
-    margin: 1rem 1.5rem 0.5rem 1.5rem;
+    margin: 1.5rem 1.5rem 2rem 1.5rem;
     min-height: 3rem; /* avoid vertical shifting in multi-line words */
     user-select: none;
   }
 
   .nav-link {
     border-radius: 0;
-    font-size: 0.95rem;
+    font-size: 1.2rem;
     font-weight: 600;
     letter-spacing: 1px;
     display: table-cell;
     vertical-align: middle;
+    color: rgb(255, 255, 255);
   }
 
   .nav-item {
@@ -736,7 +737,7 @@ $sidebar-display: "sidebar-display";
 
     &.active {
       .nav-link {
-        color: var(--sidebar-active-color);
+        color: rgba(240, 126, 126, 0.99);
       }
     }
 
