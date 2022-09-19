@@ -1,6 +1,8 @@
 ---
-title: 테스트 페이지 입니다
+title: testpage.
+subposttitle: heelo
 author: Juseok 
+image: /assets/img/coding1.png
 date: 2022-09-18 10:10:00 +0800
 categories: [Blogging, Tutorial]
 tags: [writing]
