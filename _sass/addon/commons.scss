@@ -1535,11 +1535,11 @@ $sidebar-display: "sidebar-display";
 
 @media all and (min-width: 1650px) {
   #main-wrapper {
-    margin-left: $sidebar-width-large;
+    margin-left: ($sidebar-width-large)-30;
   }
 
   #topbar-wrapper {
-    left: $sidebar-width-large;
+    left: ($sidebar-width-large)-30;
   }
 
   #search-wrapper {
@@ -1561,7 +1561,8 @@ $sidebar-display: "sidebar-display";
   }
 
   #sidebar {
-    width: $sidebar-width-large;
+    width: ($sidebar-width-large)-30;
+
 
     .profile-wrapper {
       margin-top: 4rem;
@@ -1599,9 +1600,9 @@ $sidebar-display: "sidebar-display";
 
       .site-subtitle {
         @extend %profile-ml;
-
         word-spacing: 0;
         margin-top: 0.3rem;
+        margin-right: 4.5rem;
       }
 
     } /* .profile-wrapper (min-width: 1650px) */
