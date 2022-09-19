@@ -226,6 +226,7 @@ img[data-src] {
   transition: top 0.2s ease-in-out;
   margin-top: 3rem;
   margin-bottom: 4rem;
+  margin-left: 7rem;
 
   &:only-child {
     position: -webkit-sticky; /* Safari */
@@ -1543,7 +1544,7 @@ $sidebar-display: "sidebar-display";
   }
 
   #search-wrapper {
-    margin-right: calc(#{$main-content-max-width} * 0.25 - #{$search-max-width});
+    margin-right: calc(#{$main-content-max-width} * 0.16 - #{$search-max-width});
   }
 
   #topbar,
