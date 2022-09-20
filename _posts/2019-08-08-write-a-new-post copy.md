@@ -7,4 +7,4 @@ categories: [tools, embulk]
 image: /assets/img/testpage.png
 tags: [embulk,bigquery,vertica,etl]
 ---
-zzdㅇㄴㅁㄹㅇㄴㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁ
+zzdㅇㄴㅁㄹㅇㄴㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁasda
