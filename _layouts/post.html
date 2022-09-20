@@ -27,9 +27,9 @@ tail_includes:
         {% include datetime.html date=page.last_modified_at tooltip=true %}
       </span>
       {% endif %}
-      <div class="d-flex justify-content-between">
+      <div class="d-flex justify-content-center">
         <!-- author(s) -->
-        <span style="margin-left: 19rem;">
+        <span>
           {% if page.author %}
             {% assign authors = page.author %}
           {% elsif page.authors %}
@@ -49,7 +49,7 @@ tail_includes:
           {% endif %}
           </em>
         </span>
-    
+        &emsp;
         <div>
           <!-- page views -->
           {% if site.google_analytics.pv.proxy_endpoint or site.google_analytics.pv.cache_path %}
@@ -62,7 +62,7 @@ tail_includes:
           {% endif %}
           
           <!-- read time -->
-          <span style="margin-left: -43rem;">
+          <span>
           ○{% include read-time.html content=content prompt=true %}
         </span>
         </div>
