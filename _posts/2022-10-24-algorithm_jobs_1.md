@@ -2,7 +2,7 @@
 layout: post
 title: '[ALGORITHM_JOBS] 1. 짝수 판별하기'
 date: '2022-10-24 09:59:10 +0900'
-description: '짝수 판별하기'
+description: '짝수 판별하기.'
 categories: [ALGORITHM_JOBS]
 image: /assets/img/AJ.png
 tags: [python]
