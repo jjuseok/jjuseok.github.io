@@ -3,7 +3,7 @@ layout: post
 title: '[ALGORITHM_JOBS] 2. 윷놀이'
 date: '2022-10-25 09:59:10 +0900'
 description: '짝수 판별하기.'
-categories: [ALGORITHM_JOBS]
+categories: [ALGORITHM_JOBS,part.1]
 image: /assets/img/aj.PNG
 tags: [python]
 toc: true
