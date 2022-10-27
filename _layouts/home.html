@@ -53,7 +53,7 @@ layout: page
       <br>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h1>
-
+    
     <div class="post-content">
       <p>
         {% include no-linenos.html content=post.content %}
@@ -80,7 +80,7 @@ layout: page
         {% endif %}
 
       </div>
-
+      
       {% if post.pin %}
       <div class="pin">
         <i class="fas fa-thumbtack fa-fw"></i>
