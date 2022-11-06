@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[ALGORITHM_JOBS] 13. 주사위 게임'
-date: '2022-11-02 08:59:10 +0900'
+date: '2022-11-06 08:59:10 +0900'
 description: '주사위 게임'
 categories: [ALGORITHM_JOBS,part.2]
 image: /assets/img/aj.PNG
