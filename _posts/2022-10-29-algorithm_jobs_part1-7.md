@@ -3,7 +3,7 @@ layout: post
 title: '[ALGORITHM_JOBS] 7. N to M 2'
 date: '2022-10-29 09:59:10 +0900'
 description: 'N to M 2.'
-categories: [ALGORITHM_JOBS,part.1]
+categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - <b>Part.1</b>]
 image: /assets/img/aj.PNG
 tags: [python]
 toc: true

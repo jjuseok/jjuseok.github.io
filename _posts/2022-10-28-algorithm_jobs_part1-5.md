@@ -3,7 +3,7 @@ layout: post
 title: '[ALGORITHM_JOBS] 5. 약수 구하기'
 date: '2022-10-28 09:59:10 +0900'
 description: '약수 구하기.'
-categories: [ALGORITHM_JOBS,part.1]
+categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - <b>Part.1</b>]
 image: /assets/img/aj.PNG
 tags: [python]
 toc: true

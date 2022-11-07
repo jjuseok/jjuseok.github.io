@@ -3,7 +3,7 @@ layout: post
 title: '[ALGORITHM_JOBS] 6. 배수의 개수 세기'
 date: '2022-10-29 09:59:10 +0900'
 description: '배수의 개수 세기.'
-categories: [ALGORITHM_JOBS,part.1]
+categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - <b>Part.1</b>]
 image: /assets/img/aj.PNG
 tags: [python]
 toc: true
