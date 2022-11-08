@@ -3,7 +3,7 @@ layout: post
 title: '[ALGORITHM_JOBS] 10. 삼각형 출력 1'
 date: '2022-10-31 08:59:10 +0900'
 description: '세 개의 숫자 중 최댓값 찾기.'
-categories: [ALGORITHM_JOBS,ALGORITHM_JOBS,ALGORITHM_JOBS - <b>Part.2</b>]
+categories: [ALGORITHM_JOBS,ALGORITHM_JOBS,ALGORITHM_JOBS - Part.2]
 image: /assets/img/aj.PNG
 tags: [python]
 toc: true

@@ -3,7 +3,7 @@ layout: post
 title: '[ALGORITHM_JOBS] 3. 짝수의 합 구하기'
 date: '2022-10-27 09:59:10 +0900'
 description: '짝수의 합 구하기.'
-categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - <b>Part.1</b>]
+categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - Part.1]
 image: /assets/img/aj.PNG
 tags: [python]
 toc: true

@@ -3,7 +3,7 @@ layout: post
 title: '[ALGORITHM_JOBS] 13. 주사위 게임'
 date: '2022-11-06 08:59:10 +0900'
 description: '주사위 게임'
-categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - <b>Part.2</b>]
+categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - Part.2]
 image: /assets/img/aj.PNG
 tags: [python]
 toc: true

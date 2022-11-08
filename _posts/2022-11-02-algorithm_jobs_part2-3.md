@@ -3,7 +3,7 @@ layout: post
 title: '[ALGORITHM_JOBS] 12. 소수 판별 2'
 date: '2022-11-02 08:59:10 +0900'
 description: '소수 판별 2.'
-categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - <b>Part.2</b>]
+categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - Part.2]
 image: /assets/img/aj.PNG
 tags: [python]
 toc: true

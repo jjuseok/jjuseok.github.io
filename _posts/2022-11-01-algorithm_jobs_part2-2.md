@@ -3,7 +3,7 @@ layout: post
 title: '[ALGORITHM_JOBS] 11. 삼각형 출력 3'
 date: '2022-11-01 08:59:10 +0900'
 description: '삼각형 출력 3.'
-categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - <b>Part.2</b>]
+categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - Part.2]
 image: /assets/img/aj.PNG
 tags: [python]
 toc: true

@@ -3,7 +3,7 @@ layout: post
 title: '[네트워크 공부] 후니의 쉽게 쓴 네트워킹 1'
 date: '2022-11-07 08:59:10 +0900'
 description: '후니의 쉽게 쓴 네트워킹 1'
-categories: [NETWORK,NETWORK - <b>Part.1</b>]
+categories: [NETWORK,NETWORK - Part.1]
 image: /assets/img/network3.png
 tags: [network]
 toc: true

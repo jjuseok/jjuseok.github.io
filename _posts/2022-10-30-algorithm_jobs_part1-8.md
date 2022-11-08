@@ -3,7 +3,7 @@ layout: post
 title: '[ALGORITHM_JOBS] 8. 세 개의 숫자 중 최댓값 찾기'
 date: '2022-10-30 08:59:10 +0900'
 description: '세 개의 숫자 중 최댓값 찾기.'
-categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - <b>Part.1</b>]
+categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - Part.1]
 image: /assets/img/aj.PNG
 tags: [python]
 toc: true
