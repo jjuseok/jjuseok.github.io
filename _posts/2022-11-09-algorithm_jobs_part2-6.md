@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[ALGORITHM_JOBS] 15. 숫자 피라미드'
+title: '[ALGORITHM_JOBS] 15. 숫자 피라미드 :star:'
 date: '2022-11-09 09:59:10 +0900'
 description: '숫자 피라미드'
 categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - Part.2]
