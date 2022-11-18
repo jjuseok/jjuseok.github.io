@@ -33,7 +33,10 @@ ex) 16이 소수인가 소수가 아닌가?<br>
 
 <hr>
 # <b>코드</b>
-<hr>
+<details>
+<summary id="summary1">풀이보기(클릭)</summary>
+<div markdown="1">
+
 ~~~python
 import math
 
@@ -49,3 +52,5 @@ if primenumber(n) == True:
 else:
     print("NO")
 ~~~
+</div>
+</details>

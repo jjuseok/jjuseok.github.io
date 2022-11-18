@@ -30,6 +30,10 @@ for문을 돌려 arr1 리스트 요소에 하나씩 접근해 채점 결과가 0
 이 부분에서 point = 1이 아니라 point += 1인 이유는 전 문제를 맞췄을 경우 1점, 2점, 3점... 으로 증가하기 때문이다.
 <hr>
 # <b>코드</b>
+<details>
+<summary id="summary1">풀이보기(클릭)</summary>
+<div markdown="1">
+
 ~~~python
 n = int(input())
 arr1 = list(map(int, input().split()))
@@ -44,4 +48,5 @@ for i in range(n):
         point = 0
 print(sum)
 ~~~
-
+</div>
+</details>

@@ -29,9 +29,14 @@ n층의 삼각형을 출력하는 프로그램을 작성하여라. Input, Output
 n을 입력받은 후 공백을 n-i개 출력 후 별을 (2*i-1)개 찍으면 된다.
 <hr>
 # <b>코드</b>
+<details>
+<summary id="summary1">풀이보기(클릭)</summary>
+<div markdown="1">
+
 ~~~python
 n = int(input())
 for i in range(1, n+1):
     print(' ' * (n-i)+'*' * (2*i-1))
 ~~~
-
+</div>
+</details>

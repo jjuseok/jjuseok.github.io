@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[ALGORITHM_JOBS] 17. array 3'
+title: '[ALGORITHM_JOBS] 17. array 3 :star:'
 date: '2022-11-14 09:59:10 +0900'
 description: '점수 계산'
 categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - Part.2]
@@ -52,6 +52,10 @@ arr에 cnt 값을 넣고 cnt는 1,2,3,4,5,6..... 이어야 되니깐 cnt += 1을
 그리고 2중 for문을 이용해 arr값을 하나씩 출력해주면 된다..
 <hr>
 # <b>코드</b>
+<details>
+<summary id="summary1">풀이보기(클릭)</summary>
+<div markdown="1">
+
 ~~~python
 n = int(input())
 arr = [[0] * 105 for _ in range(105)]
@@ -71,4 +75,6 @@ for i in range(n):
         print(arr[i][j], end=" ")
     print()
 ~~~
+</div>
+</details>
 

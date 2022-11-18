@@ -22,7 +22,10 @@ toc: true
 for문을 3회 돌리고 if-elif-else문을 활용하여 도, 개, 걸, 윷, 모에 해당 되는 알파벳을 출력하면 된다.
 <hr>
 # <b>코드</b>
-<hr>
+<details>
+<summary id="summary1">풀이보기(클릭)</summary>
+<div markdown="1">
+
 ~~~python
 for i in range(3): #문제 입력부분에서 3회 반복
     a = list(map(int, input().split())) # 각 해당되는 부분의 알파벳 출력
@@ -37,3 +40,5 @@ for i in range(3): #문제 입력부분에서 3회 반복
     else:
         print('E')
 ~~~
+</div>
+</details>

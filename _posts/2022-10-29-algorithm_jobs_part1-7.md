@@ -22,6 +22,11 @@ a, b를 입력받고 차례대로 출력하면 된다.<br>
 한 줄에 최대 8개까지 출력 가능하니깐, count 변수를 새로 만들고 8개가 되면 줄바꿈을 한다.
 <hr>
 # <b>코드</b>
+<details>
+<summary id="summary1">풀이보기(클릭)</summary>
+<div markdown="1">
+
+
 ~~~python
 a, b = map(int, input().split())
 count = 0
@@ -32,4 +37,5 @@ for i in range(a, b+1):
     if  count % 8 == 0:
         print()
 ~~~
-
+</div>
+</details>

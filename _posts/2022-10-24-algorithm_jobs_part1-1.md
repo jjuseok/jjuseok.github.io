@@ -21,7 +21,10 @@ toc: true
 기본적인 문제로 if-else문을 사용하여 풀이하면 된다.
 <hr>
 # <b>코드</b>
-<hr>
+<details>
+<summary id="summary1">풀이보기(클릭)</summary>
+<div markdown="1">
+
 ~~~python
 n = int(input()) # n을 정수로 입력 받는다.
 if n % 2 == 0: # 만약에 n % 2 가 0 이라면 
@@ -29,3 +32,5 @@ if n % 2 == 0: # 만약에 n % 2 가 0 이라면
 else: # n % 2 가 0이 아니면
     print("not even") # "not even"이 출력 된다.
 ~~~
+</div>
+</details>

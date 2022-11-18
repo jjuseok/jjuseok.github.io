@@ -33,6 +33,10 @@ N(2≤N≤1,000) 명이 주사위 게임에 참여하였을 때, 가장 많은 �
 
 <hr>
 # <b>코드</b>
+<details>
+<summary id="summary1">풀이보기(클릭)</summary>
+<div markdown="1">
+
 ~~~python
 n = int(input()) # 참가하는 사람의 수 n을 입력받는다.
 arr_result=[] # 가장 큰 상금을 출력한다.
@@ -54,4 +58,5 @@ for i in range(n): # 참가하는 사람 수 만큼 반복문을 돌린다.
         # arr_result에 규칙에 맞게 결과 값을 저장한다.
 print(max(arr_result)) # arr_result 값에서 가장 큰 값을 출력한다.
 ~~~
-
+</div>
+</details>

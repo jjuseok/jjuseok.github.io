@@ -31,6 +31,10 @@ k번째로 작은 약수를 구하려면 일단 약수들을 저장해야 된다
 for문을 이용해서 약수면 arr 리스트에 하나씩 저장한다.<br>
 그런후 arr리스트에서 k번째를 출력한다.
 # <b>코드(1)</b>
+<details>
+<summary id="summary1">풀이보기(클릭)</summary>
+<div markdown="1">
+
 ~~~python
 n, k = map(int, input().split())
 arr = []
@@ -43,13 +47,21 @@ if len(arr) < k:
 else:
     print(arr[k-1])
 ~~~
+</div>
+</details>
 <hr>
 # <b>아이디어(2)</b>
 아이디어(1)로 작성한 코드보다 길이가 적은 코드를 고안했다.<br>
 구하는 방식은 똑같다.
 # <b>코드(2)</b>
+<details>
+<summary id="summary1">풀이보기(클릭)</summary>
+<div markdown="1">
+
 ~~~python
 a, b = map(int, input().split())
 c = [i for i in range(1, a+1) if a%i==0]
 print(0 if len(c)<b else c[b-1])
 ~~~
+</div>
+</details>

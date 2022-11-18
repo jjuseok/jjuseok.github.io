@@ -55,6 +55,10 @@ N과 시작 숫자 S가 주어지면 숫자 피라미드를 만드는 프로그�
 ### <b> :star: 이 문제는 어려워서 반복해서 다시 봐야 될 문제이다.</b>
 <hr>
 # <b>코드</b>
+<details>
+<summary id="summary1">풀이보기(클릭)</summary>
+<div markdown="1">
+
 ~~~python
 n, s = map(int, input().split())
 space = n - 1
@@ -101,4 +105,5 @@ for i in range(1,n+1): # 숫자 출력 하기 전 공백 출력
     space -= 1
     print()
 ~~~
-
+</div>
+</details>

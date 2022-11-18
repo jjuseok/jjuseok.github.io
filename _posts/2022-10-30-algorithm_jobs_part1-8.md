@@ -23,9 +23,14 @@ python 리스트 정렬 함수인 sort()를 이용해 정렬 한 뒤<Br>
 arr 리스트의 3번째 요소를 출력하면 된다.
 <hr>
 # <b>코드</b>
+<details>
+<summary id="summary1">풀이보기(클릭)</summary>
+<div markdown="1">
+
 ~~~python
 arr = list(map(int, input().split()))
 arr.sort()
 print(arr[2])
 ~~~
-
+</div>
+</details>

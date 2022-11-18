@@ -29,8 +29,14 @@ n층의 삼각형을 출력하는 프로그램을 작성하여라. Input, Output
 n을 입력받은 후 n층마다 n개의 별을 출력하면 된다.
 <hr>
 # <b>코드</b>
+<details>
+<summary id="summary1">풀이보기(클릭)</summary>
+<div markdown="1">
+
 ~~~python
 n = int(input())
 for i in range(n):
     print('*' * (i+1))
 ~~~
+</div>
+</details>

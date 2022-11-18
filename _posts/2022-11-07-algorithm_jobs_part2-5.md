@@ -27,6 +27,10 @@ A는 5번의 라운드에서 승리하고 B는 4번의 라운 드에서 승리�
 
 <hr>
 # <b>코드</b>
+<details>
+<summary id="summary1">풀이보기(클릭)</summary>
+<div markdown="1">
+
 ~~~python
 arr1 = list(map(int, input().split())) # A가 제시한 카드 값을 입력받는다.
 arr2 = list(map(int, input().split())) # B가 제시한 카드 값을 입력받는다.
@@ -47,4 +51,5 @@ elif arrResult.count('A') < arrResult.count('B'): # B가 더 많이 이겼으면
 else: # 비긴 경우 D 출력
     print('D')
 ~~~
-
+</div>
+</details>

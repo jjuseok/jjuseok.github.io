@@ -24,10 +24,16 @@ n, s를 입력받는데 s는 math 함수를 이용해 제곱근으로 변환한�
 변환하고 나서 s의 제곱이 n보다 크거나 같으면 출력하고 아니면 +1을 해서 출력한다.
 <hr>
 # <b>코드</b>
+<details>
+<summary id="summary1">풀이보기(클릭)</summary>
+<div markdown="1">
+
 ~~~python
 import math
 n = int(input())
 s = int(math.sqrt(n))
 print(s if s**2 >= n else (s+1))
 ~~~
+</div>
+</details>
 

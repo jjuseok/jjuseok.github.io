@@ -23,7 +23,10 @@ toc: true
 만약 i가 짝수면 합을 su에 저장한다.
 <hr>
 # <b>코드</b>
-<hr>
+<details>
+<summary id="summary1">풀이보기(클릭)</summary>
+<div markdown="1">
+
 ~~~python
 n = int(input())
 su = 0
@@ -33,3 +36,5 @@ for i in range(2, n+1):
 
 print(su)
 ~~~
+</div>
+</details>

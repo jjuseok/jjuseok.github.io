@@ -27,6 +27,10 @@ a, b, c를 입력 받는데 a가 b보다 클수도 있고, 작을수도 있다.<
 바꾸고 나서 for문을 이용해 c의 배수를 찾고 count에 누적시키기고 마지막에 count를 출력한다.
 <hr>
 # <b>코드</b>
+<details>
+<summary id="summary1">풀이보기(클릭)</summary>
+<div markdown="1">
+
 ~~~python
 a, b, c = map(int, input().split())
 count, temp = 0, 0
@@ -42,4 +46,5 @@ for i in range(a, b+1):
 
 print(count)
 ~~~
-
+</div>
+</details>
