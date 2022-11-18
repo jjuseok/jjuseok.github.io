@@ -22,9 +22,9 @@ primenumber이라는 함수를 만들어 소수 판별하는 함수를 작성했
 함수를 만들고 n, m을 입력받고 소수인 정수만 출력했다.
 <hr>
 # <b>코드</b>
-<>
+<details>
 <summary id="summary1">풀이보기(클릭)</summary>
-<di markdown="1">
+<div markdown="1">
 
 ~~~python
 import math
