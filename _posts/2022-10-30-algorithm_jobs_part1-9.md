@@ -37,3 +37,6 @@ print(s if s**2 >= n else (s+1))
 </div>
 </details>
 
+<hr>
+### <b>문제 출처</b>
+ALGORITHM JOBS

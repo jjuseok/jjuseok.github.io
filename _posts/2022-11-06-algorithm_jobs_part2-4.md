@@ -60,3 +60,7 @@ print(max(arr_result)) # arr_result 값에서 가장 큰 값을 출력한다.
 ~~~
 </div>
 </details>
+
+<hr>
+### <b>문제 출처</b>
+KOI 2010 지역본선 초등부 2번

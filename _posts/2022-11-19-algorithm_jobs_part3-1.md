@@ -66,3 +66,7 @@ print(f"{maxSu}\n{line} {low}")
 ~~~
 </div>
 </details>
+
+<hr>
+### <b>문제 출처</b>
+KOI 2007 지역본선 중등부 1번, 고등부 1번
