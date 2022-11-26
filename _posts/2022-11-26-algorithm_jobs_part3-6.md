@@ -125,4 +125,4 @@ print(z)
 
 <hr>
 ### <b>문제 출처</b>
-KOI 2014 전국본선 초등부 1번  
+ALGORITHM JOBS
