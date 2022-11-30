@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[해킹 기초] 1. 정보수집-OSINT'
+title: '[해킹 기초] 2. 정보수집-OSINT'
 date: '2022-11-30 08:59:10 +0900'
 description: '정보수집-OSINT'
 categories: [HACKING,HACKING - Part.1]
@@ -41,3 +41,6 @@ whois를 이용하면 도메인의 책임자 이름, 연락처, 주소, 네임�
 나는 kali linux를 활용해서 nslookup을 실행했다.<br>
 nslookup 명령어를 입력하고 Enter를 누르면 입력하라고 ">"가 나온다.<br>
 그럼 IP를 얻고 싶은 URL를 입력하면 Address를 반환해준다.<br>
+
+### <b>여기까지 간단하게 OSINT에 대해서 알아봤다!!!!!!!!!</b>
+### <b>다음부터는 능동적인 정보수집을 알아보자!!</b><br>
