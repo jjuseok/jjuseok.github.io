@@ -36,6 +36,6 @@ ex) &#35; nmap -n -vv -sn 192.1.1.1-255 -oG - | grep -i 'up'<br>
 - nmap : scanning 할 때 쓰는 대표적인 tool<br>
 - -n : scanning 하는 IP에 대해 DNS 질문을 하지 않는다 -> 속도 향상
 - -vv : 명령어를 실행하는 동안 실시간으로 보고한다.
-- -sn : Ping Sweep을 하는 옵션
+- -sn : Ping Sweep을 하는 옵션.
 - -oG : 출력을 Grepable 형태로 나타낸다.
 - &#124; grep -i &#39;up&#39; : 상태가 up인 결과만 뽑아서 출력한다.
