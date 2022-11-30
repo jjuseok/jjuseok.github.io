@@ -17,7 +17,8 @@ toc: true
 - 누구나 합법적으로 접근할 수 있는 데이터를 이용하는 것이다.
 
 ### <b>■ Netcraft</b>
-<a href="www.netcraft.com">Netcraft</a>는 특정한 웹 사이트의 정보를 확인할 수 있는 대표적인 사이트이다.
+
+[Netcraft](https://www.netcraft.com/)는 특정한 웹 사이트의 정보를 확인할 수 있는 대표적인 사이트이다.
 
 <img src="/assets/img/hacking/part1-2-1.png" alt="표사진"><br>
 
