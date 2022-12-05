@@ -5,7 +5,7 @@ date: '2022-11-30 19:59:10 +0900'
 description: '정보수집-Ping SweepT'
 categories: [HACKING,HACKING - Part.1]
 image: /assets/img/1/hacking.png
-tags: [network]
+tags: [hacking]
 toc: true
 ---
 <a text-size="1px" target="_blank" href="https://icons8.com/icon/5503/hacking">Hacking</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
