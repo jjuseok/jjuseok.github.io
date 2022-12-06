@@ -3,7 +3,7 @@ layout: post
 title: '[ALGORITHM_JOBS] 26. bingo :star:'
 date: '2022-11-30 16:30:10 +0900'
 description: 'bingo'
-categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - Part.3]
+categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - Part.4]
 image: /assets/img/aj.PNG
 tags: [python]
 toc: true
