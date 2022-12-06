@@ -28,3 +28,4 @@ $(function() {
   $("#mask").click(sidebarUtil.toggle);
 
 });
+

@@ -1,0 +1,39 @@
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <script src="https://code.highcharts.com/highcharts.js"></script>
+    </head>
+    <body style="margin:0;padding:0">
+                <div id="container" style="">Loading....</div>
+
+    <script>
+        var python = 28
+        var network = 3
+        var hacking = 3
+// Data retrieved from https://gs.statcounter.com/vendor-market-share/mobile/
+Highcharts.chart('container', {
+    chart: {
+        styledMode: true
+    },
+    title: {
+            text: 'Posts by tag'
+    },
+    xAxis: {
+        categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+    },
+    series: [{
+        type: 'pie',
+        allowPointSelect: true,
+        keys: ['name', 'y', 'selected', 'sliced'],
+        data: [
+        ['Python', python, false],
+        ['Network', network, false],
+        ['Hacking', hacking, false],
+        ],
+        showInLegend: true
+    }]
+    });
+        </script>
+    
+    </body>
+</html>
