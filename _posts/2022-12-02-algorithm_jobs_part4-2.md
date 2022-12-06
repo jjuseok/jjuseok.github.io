@@ -3,7 +3,7 @@ layout: post
 title: '[ALGORITHM_JOBS] 27. baseball game'
 date: '2022-12-02 16:30:10 +0900'
 description: 'baseball game'
-categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - Part.3]
+categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - Part.4]
 image: /assets/img/aj.PNG
 tags: [python]
 toc: true
