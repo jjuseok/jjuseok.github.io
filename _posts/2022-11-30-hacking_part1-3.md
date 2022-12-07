@@ -2,7 +2,7 @@
 layout: post
 title: '[해킹 기초] 3. 정보수집-Ping Sweep'
 date: '2022-11-30 19:59:10 +0900'
-description: '정보수집-Ping SweepT'
+description: '정보수집-Ping Sweep'
 categories: [HACKING,HACKING - Part.1]
 image: /assets/img/1/hacking.png
 tags: [hacking]
@@ -24,7 +24,7 @@ toc: true
 2. 이를 수신한 대상은 살아있으면 응답을 보낸다.(ICMP echo reply)
 3. 응답이 오면 대상의 상태를 확인할 수 있다.
 
-### <b>■ kali linux namp을 통한 Ping Sweep 실습</b>
+### <b>■ kali linux nmap을 통한 Ping Sweep 실습</b>
 - [실습 환경]
     - Virtual Box(Kali Linux)
     - Virtual Box(Kioptrix Level 1)
