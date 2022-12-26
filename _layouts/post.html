@@ -8,7 +8,7 @@ tail_includes:
   - post-nav
   - comments
 ---
-<!-- »ó´Ü ÁøÇà¹Ù ½ÃÀÛ -->
+<!-- ìƒë‹¨ ì§„í–‰ë°” ì‹œìž‘ -->
 <style>
   .progress-bar {
       background: linear-gradient(to right, #9b9393 var(--scroll), transparent 0);
@@ -40,7 +40,7 @@ tail_includes:
     progress.style.setProperty('--scroll', scroll + '%');
   });
   </script>
-  <!-- ÇÏ´Ü ÁøÇà¹Ù ³¡ ÃâÃ³: https://blog.webjeda.com/top-bar-website/#scroll-percentage-top-bar -->  
+  <!-- í•˜ë‹¨ ì§„í–‰ë°” ë ì¶œì²˜: https://blog.webjeda.com/top-bar-website/#scroll-percentage-top-bar -->  
 
   
 {% include lang.html %}
@@ -69,7 +69,7 @@ tail_includes:
             {% assign authors = page.authors %}
           {% endif %}
           
-          ¡Û {{ site.data.locales[lang].post.written_by }}
+          â—‹ {{ site.data.locales[lang].post.written_by }}
     
           <em>
           {% if authors %}
@@ -96,7 +96,7 @@ tail_includes:
           
           <!-- read time -->
           <span style="font-size: 17px;">
-          ¡Û{% include read-time.html content=content prompt=true %}
+          â—‹{% include read-time.html content=content prompt=true %}
         </span>
         </div>
 </div>
