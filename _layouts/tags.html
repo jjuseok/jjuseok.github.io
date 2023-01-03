@@ -4,10 +4,6 @@ layout: page
 ---
 <table style="height: 430px; width: 920px;">
   <tbody>
-  <tr>  
-    <td style="height: 12px;"></td>
-    <td rowspan="2" style="width: 45%; vertical-align: top; ">{% include chart.html %}</td>
-  </tr>
   <tr>
       <td style="width: 45%; vertical-align: top;">
         <div id="tags" class="d-flex flex-wrap ml-xl-2 mr-xl-2">
@@ -22,13 +18,17 @@ layout: page
           {% for t in sorted_tags %}
             <div>
               <a class="tag" href="{{ t | slugify | url_encode | prepend: '/tags/' | append: '/' | relative_url }}">
-                {{ t }}<span class="text-muted">{{ site.tags[t].size }}</span>
+                {{ t }}<span class="text-muted" id="{{ t }}">{{ site.tags[t].size }}</span>
               </a>
             </div>
         
           {% endfor %}
           </div>
       </td>
+  </tr>
+  <tr>  
+    <td style="height: 12px;"></td>
+    <td rowspan="2" style="width: 45%; vertical-align: top; ">{% include chart.html %}</td>
   </tr>
 </tbody>
 </table>
