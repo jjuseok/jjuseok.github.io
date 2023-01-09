@@ -33,7 +33,7 @@ XSS 공격은 크게 2가지가 있다.
 
 
 > 출처 : 
-https://www.easymedia.net/Culture/EasyStory/index.asp?no=170&mode=view&IDX=1165&p=1
+이지미디어
 
 ### <b>■ BeEF를 이용한 Stored XSS 공격 실습</b>
 - [실습 환경]

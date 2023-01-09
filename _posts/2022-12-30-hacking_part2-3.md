@@ -33,7 +33,7 @@ page 파라미터를 /etc/passwd로 넣으면 위와 같이 계정 정보가 출
 ### <b>■ RFI(Remote File Inclusion)이란?</b>
 공격자가 악성 스크립트를 대상 웹 서버에 전달하여 해당 페이지를 통하여 전달한 악성코드가 실행 되도록 하는 것이다.
 
-### <b>■ ■ RFI(Remote File Inclusion) 취약점 공격 실습</b>
+### <b>■ RFI(Remote File Inclusion) 취약점 공격 실습</b>
 - [실습 환경]
     - Virtual Box(Kali Linux)
     - Virtual Box(DVWA) -공격 대상

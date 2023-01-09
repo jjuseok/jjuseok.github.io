@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[해킹 기초] 12. Kioprix_Level 1'
+title: '[해킹 기초] 12. Search Sploit을 이용한 공격 실습'
 date: '2023-01-04 09:59:10 +0900'
 description: 'Kioprix_Level 1'
 categories: [HACKING,HACKING - Part.2]

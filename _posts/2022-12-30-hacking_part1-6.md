@@ -28,7 +28,7 @@ ex) &#35; nmap -O -sV -sS 192.168.1.1 > result.txt<br>
 위와 같이 명령어를 입력하면 nmap을 이용해 스캔한 내용을 result.txt 파일로 만들어 저장된다. result.txt파일이 만들어졌으면 cat 명령어를 이용해서 result.txt파일을 살펴보자
 우리는 21번 포트인 ftp 취약점을 search sploit를 이용해서 알아볼 것이다.
 
-nmap을 이용해서 정보수집하는 방법은 이전 게시글을 참고하면 된다. <a src="https://jjuseok.github.io/posts/hacking_part1-4/">👉 4. 정보수집-Port Scan</a><br>
+nmap을 이용해서 정보수집하는 방법은 이전 게시글을 참고하면 된다. <a href="https://jjuseok.github.io/posts/hacking_part1-4/">👉 4. 정보수집-Port Scan</a><br>
 
 
 <img src="/assets/img/hacking/part1-6/2.png" alt="표사진"><br>
