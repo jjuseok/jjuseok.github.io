@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '[ALGORITHM_JOBS] 41. 과제물 망치기'
-date: '2023-01-11 08:50:10 +0900'
-description: '대소문자 변환'
+title: '[ALGORITHM_JOBS] 42. 문자열 뒤집기'
+date: '2023-01-11 08:52:10 +0900'
+description: '문자열 뒤집기'
 categories: [ALGORITHM_JOBS,ALGORITHM_JOBS - Part.6]
 image: /assets/img/aj.PNG
 tags: [python]

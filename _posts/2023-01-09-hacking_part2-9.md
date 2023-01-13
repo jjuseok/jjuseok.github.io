@@ -2,7 +2,7 @@
 layout: post
 title: '[해킹 기초] 15. Back door'
 date: '2023-01-09 11:59:10 +0900'
-description: '15. 백도어(Back door)'
+description: '백도어(Back door)'
 categories: [HACKING,HACKING - Part.2]
 image: /assets/img/1/hacking.png
 tags: [hacking]
