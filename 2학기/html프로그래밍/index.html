@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="http://naver.com"><img src="naver.jpg" width="100" alt="네이버"></a><br>
+    <a href="http://youtube.com"><img src="youtube.png" width="400" alt="유튜브"></a><br>
+    <a href="http://google.com"><img src="google.png" width="300" alt="google"></a>
+    <h1><span style="color:rgb(0, 255, 17)">초록색 제목1</span></h1>
+    <h1><span style="color:rgb(7, 152, 243)">파랑색 제목1</span></h1>
+    <h1><span style="color:rgb(0, 205, 241)">하늘색 제목1</span></h1>
+    <h1><span style="color:rgb(89, 0, 255)">보라색 제목1</span></h1>
+    <h1><span style="color:rgb(0, 0, 0)">검은색 제목1</span></h1>
+    <h1><span style="color:rgb(167, 173, 150)">회색 제목1</span></h1>
+    <p><mark>안녕하세요 <span style="color:red">HTML수업입니다</mark></span></p>
+    <ol>
+        <li>첫 번째 목록</li>
+        <li>두 번째 목록</li>
+        <li>세 번째 목록</li>
+    </ol>
+    <br>
+    <h1>새창으로 페이지 바로가기 목록입니다</h1>
+    <ul>
+        <li><a href="http://ukp.ac.kr" target="blank">김포대</a></li>
+        <li><a href="http://naver.com" target="blank">네이버</a></li>
+        <li><a href="http://google.com" target="blank">구글 바로가기</a></li>
+    </ul>
+    <br>
+    <h1>순서가 있는 목록입니다</h1>
+    <ol>
+        <li>김포대 학교소개</li>
+        <li>김포대 찾아오시는 길</li>
+        <li>취업현황</li>
+        <li>김포대 입학안내</li>
+    </ol>
+    <br>
+    <h1>입력할 수 있는 태그 입니다</h1>
+    <!--radio 태그는 name이 같아야 되지만 checkbox 태그는 name이 달라야 된다.-->
+    <!--input 태그에닌 name이 반드시 들어가야 된다.-->
+    <p>USER ID : <input type="text" name="id" size="6" maxlength="10"></p>
+    <p>USER PW : <input type="password" name="pw" size="6" maxlength="10"> <input type="submit" value="LOG IN"></p>
+    <p> *성별 : <input type="radio" name="gender">male <input type="radio" name="gender">female</p>
+    <p> *학년 : <input type="radio" name="grade">1학년 <input type="radio" name="grade">2학년 <input type="radio" name="grade">3학년</p>
+    <p> *취미 : <input type="checkbox">영화감상<input type="checkbox">사진<input type="checkbox">운동</p>
+    <p><input type="number" min="1" max="2" value="1" name="cart"></p>
+    <p><input type="color" name="mycolor"></p>
+    <p><input type="button" onclick="alert('안녕하세요')" value="click" ></p>
+    <p>Enter a date after 2000-11-03 :<input type="date" name="bday" min="2022-09-01" ></p>
+    <p>Enter a date before 1980-01-01 : <input type="date" name="bday" max="1979-12-31" ></p>
+    <p><input type="month" name="month"></p>
+    <p><input type="week" name="week"></p>
+    <p><input type="time" name="time"></p>
+    <p><input type="email" name="myemail"></p>
+    <p><input type="range" name="points" max="100" min="0"></p>
+    <p>phone : <input type="text" size="3" maxlength="3">-<input type="text" size="3" maxlength="3">-<input type="text" size="3" maxlength="3"></p>
+    <p>phone : <input type="tel" placeholder="010-xxx-xxxx" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"></p>
+    <p><input type="search" name="googlesearch"></p>
+
+</body>
+</html>
